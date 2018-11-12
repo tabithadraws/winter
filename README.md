@@ -9,7 +9,7 @@ This is a snow simulator that you can control using an arduino! Here are the thi
 The project was made using a p5 example that you can find here. This is a large part of the project so thanks to the person who made it!:
 https://p5js.org/examples/simulate-snowflakes.html 
 
-I also used some code from my instructor that allows you to control the Arduino, but I'm not sure if that's available to the public..?
+I also used some code from my instructor that allows you to control the Arduino, but I'm not sure if that's available to the public..? I am still also learning how github works.
 https://github.com/tabithadraws/CC18/blob/master/ArduinoExamples/ArduinoMicro/Input/button_usingPullup/button_usingPullup.ino
 
 If you want to use an image for the background like I did you will need to create a local server. This is a good explainer video:
